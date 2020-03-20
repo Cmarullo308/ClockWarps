@@ -1,0 +1,10 @@
+main: me.ClockWarps.main.ClockWarps
+name: ClockWarps
+author: CJM
+version: 0.0
+api-version: 1.15
+description: Warps with GUI
+commands:
+   test:
+      usage: /test
+      description: Test command
